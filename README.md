@@ -35,7 +35,7 @@
 ------
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Dora_Support)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_dorabot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Dor4_Official)
 
 ------
 ## YouTube 📺
@@ -62,10 +62,10 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/Micky-Virus/DoraUSERBOT.git`
+`git clone https://github.com/Micky-Virus/DoraBOT.git`
 - Open Cloned Folder.
 
-`cd DoraUSERBOT`
+`cd DoraBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
