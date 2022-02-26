@@ -36,9 +36,9 @@ _setting_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $DoraPATH
-    echo "    ⚜️Starting 𝐃𝐎𝐑𝐀™⚜️     "
+    echo "    Starting 𝐃𝐎𝐑𝐀™    "
     echo "
-    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+    ‼️❤️🌹❤️🌹❤️🌹❤️🌹❤️🌹‼️
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
